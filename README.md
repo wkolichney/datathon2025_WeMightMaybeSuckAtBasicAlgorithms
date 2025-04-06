@@ -4,3 +4,6 @@
 
 #### Traffic Flow Data, by year by county
 https://www.vdot.virginia.gov/doing-business/technical-guidance-and-support/traffic-operations/traffic-counts/
+
+#### "Report Card" on Virginia Infrastructure (Where I got traincar to truck conversion)
+https://infrastructurereportcard.org/wp-content/uploads/2016/10/Report-2022-VA-IRC-TRUE-REAL-FINAL-for-WEB.pdf
