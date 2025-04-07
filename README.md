@@ -38,3 +38,5 @@ https://data.virginia.gov/dataset/freight-movement-in-virginia/resource/414a3245
 https://data.virginia.gov/dataset/transportation-services-index-and-seasonally-adjusted-transportation-data
 #### FIPS meaning
 "FIPS" refers to Federal Information Processing Standard codes, used to identify states and counties for data reporting and analysis related to railroad safety and infrastructure. 
+#### Rail flow by tonnage
+https://faf.ornl.gov/faf5/SummaryTable.aspx
