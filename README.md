@@ -1,5 +1,17 @@
 # datathon2025
 
+## Project Idea so far
+
+One freight train car takes 3.4 trucks off the highway. VA's freight train demand grows half a percent yearly (projected up to 2040). Rail lines from Richmond to DC can handle this, but the rest of the state lines can't. How much spill over of this unmanageable demand will result in trucks on the road?
+
+Ex: 2025's # of freight car flow = 4000. In 2040, this would be 4300. If we can only handle 4000, this would result in 1,020 more trucks on the highways
+
+
+
+
+
+
+
 ## Use this readme file to put in helpful links
 
 #### Traffic Flow Data, by year by county
