@@ -20,11 +20,6 @@ Our analysis may be a good way to see if roads can handle more trucks, or if we 
 
 
 
-
-
-
-
-
 ## Use this readme file to put in helpful links
 
 #### Traffic Flow Data, by year by county
@@ -33,3 +28,6 @@ https://www.vdot.virginia.gov/doing-business/technical-guidance-and-support/traf
 #### "Report Card" on Virginia Infrastructure (Where I got traincar to truck conversion)
 ##### This source also raises the call to action to research how much highways will have to shoulder the burden of increased demand for freight shipping
 https://infrastructurereportcard.org/wp-content/uploads/2016/10/Report-2022-VA-IRC-TRUE-REAL-FINAL-for-WEB.pdf
+
+#### Number of freight cars loads in 2022, but not by rail line. Gives names for railways too
+https://www.aar.org/wp-content/uploads/2025/01/AAR-Virginia-State-Fact-Sheet.pdf
