@@ -6,6 +6,19 @@ One freight train car takes 3.4 trucks off the highway. VA's freight train deman
 
 Ex: 2025's # of freight car flow = 4000. In 2040, this would be 4300. If we can only handle 4000, this would result in 1,020 more trucks on the highways
 
+If the new lanes from VDOT's infrastructure project can handle the increased number of trucks - Good! 
+<br>
+If they can't, gotta put more into rails
+
+#### Why this project may be a good deliverable
+
+"Fund a rigorous study of the economic and environmental life-cycle costs and
+benefits of adding new freight capacity on rail versus roadway expansion in the I-81 Corridor"
+
+Our analysis may be a good way to see if roads can handle more trucks, or if we should beef up rail lines.
+
+
+
 
 
 
