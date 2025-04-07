@@ -29,8 +29,6 @@ https://www.vdot.virginia.gov/doing-business/technical-guidance-and-support/traf
 ##### This source also raises the call to action to research how much highways will have to shoulder the burden of increased demand for freight shipping
 https://infrastructurereportcard.org/wp-content/uploads/2016/10/Report-2022-VA-IRC-TRUE-REAL-FINAL-for-WEB.pdf
 
-#### CSX's carload report
-https://investors.csx.com/metrics/default.aspx
 
 #### Number of freight cars loads in 2022, but not by rail line. Gives names for railways too
 https://www.aar.org/wp-content/uploads/2025/01/AAR-Virginia-State-Fact-Sheet.pdf
