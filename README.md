@@ -32,3 +32,5 @@ https://infrastructurereportcard.org/wp-content/uploads/2016/10/Report-2022-VA-I
 
 #### Number of freight cars loads in 2022, but not by rail line. Gives names for railways too
 https://www.aar.org/wp-content/uploads/2025/01/AAR-Virginia-State-Fact-Sheet.pdf
+#### Freight by weight 2023
+https://data.virginia.gov/dataset/freight-movement-in-virginia/resource/414a3245-9255-4411-978b-59dcbb0bfdd6
