@@ -44,3 +44,6 @@ https://faf.ornl.gov/faf5/SummaryTable.aspx
 #### Freight rail tonnage, possible duplicate
 
 https://data.virginia.gov/dataset/freight-movement-in-virginia/resource/414a3245-9255-4411-978b-59dcbb0bfdd6
+
+#### Rail Map
+https://gis-drpt.opendata.arcgis.com/apps/47133089617e45f786c0957eedb2f932/explore
