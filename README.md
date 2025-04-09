@@ -50,3 +50,7 @@ https://data.virginia.gov/dataset/freight-movement-in-virginia/resource/414a3245
 
 #### Rail Map
 https://gis-drpt.opendata.arcgis.com/apps/47133089617e45f786c0957eedb2f932/explore
+
+# NEED TO LOOK AT THIS
+### Hard to figure out source, but likely has more granular stats on rails, and you can download the data as csv, excel, what have you
+https://vtrans.virginia.gov/interactvtrans/data-explorer?category=Mid-term+Planning&subject=MidtermNeeds&travelMarket=Corridors+of+Statewide+Significance&statistic=Rail+Reliability+Need+%28Directional+Miles%29
